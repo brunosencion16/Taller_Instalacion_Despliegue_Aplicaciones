@@ -23,9 +23,6 @@ El taller incluyó el uso de **IIS, Apache, Somee, Azure y AWS (EC2)**, realizan
 
 ---
 
-## 📄 Contenido del repositorio
-/Taller_Instalacion_Despliegue_Aplicaciones
-
 ## 🏁 Resultado
 
 El taller permitió desplegar y verificar múltiples sitios web en entornos cloud y locales, configurando correctamente servidores web, puertos, accesos FTP y conexiones remotas RDP.  
