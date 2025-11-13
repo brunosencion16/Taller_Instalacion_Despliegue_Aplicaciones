@@ -25,9 +25,6 @@ El taller incluyó el uso de **IIS, Apache, Somee, Azure y AWS (EC2)**, realizan
 
 ## 📄 Contenido del repositorio
 /Taller_Instalacion_Despliegue_Aplicaciones
-│
-├── Memoria_de_Instalacion_(sin_credenciales).pdf # Documento con evidencia del despliegue
-└── README.md
 
 ## 🏁 Resultado
 
